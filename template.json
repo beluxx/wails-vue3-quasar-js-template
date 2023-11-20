@@ -1,0 +1,7 @@
+{
+  "name": "wails-vue3-quasar-js-template",
+  "shortname": "quasar-js",
+  "author": "luzp <luzp775191792@163.com>",
+  "description": "A template using quasar(v2) + vue3 + vite + pinia + eslint + prettier",
+  "helpurl": "https://github.com/beluxx/wails-vue3-quasar-js-template"
+}
